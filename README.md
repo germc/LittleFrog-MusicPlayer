@@ -12,13 +12,21 @@ iOS新人自学练习之作，存在诸多不足以及纰漏，希望大家可�
 用到的三方框架
 
 pod 'NAKPlaybackIndicatorView' 
+
 pod 'SDWebImage'
+
 pod ‘AFNetworking’
+
 pod ‘MBProgressHUD’
+
 pod ‘MJExtension’
+
 pod 'MJRefresh'
+
 pod 'JCTagListView'
+
 pod ‘Masonry’
+
 
 如果您有什么学习建议,希望能联系我
 Mail:qihuang9346@gmail.com
